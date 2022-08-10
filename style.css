@@ -1,0 +1,11 @@
+#status {
+    font-size:20px;
+}
+body {
+    text-align:center;
+    background-color:grey;
+}
+canvas {
+    border-radius:15px;
+    box-shadow: 5px 5px 38px white;
+}
